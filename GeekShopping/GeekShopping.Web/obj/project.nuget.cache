@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xsesW0xSBWvNPGjFdUpigJcgLbD+igdS6VFJ7KX9MwwzHgpK3dnNsKUcND3h84toceTesnBTt93rVz6LQtFOsg==",
+  "dgSpecHash": "O7Ky/rATQAqR9eXdZsBzGb5uMsVDQDuunOQCV/Mo0zUAOROP2+fNW4bdzoCMcCljvJYhS/oL1VlIYuY31aHO2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\christopher antony\\Desktop\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "projectFilePath": "C:\\Users\\christopher antony\\Desktop\\Geek\\microservices-geekshopping\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
